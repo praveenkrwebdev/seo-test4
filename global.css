@@ -800,7 +800,7 @@ transform:translate(-50%,-50%);
 .hero-actions > button + button{
   margin-left:0 !important;
 }
-.inner-cta-box .hero-actions{margin-top:4px !important;}
+.inner-cta-box .hero-actions{margin-top:30px !important;}
 
 /* Floating WhatsApp button — same on every page */
 .site-wa-float{
