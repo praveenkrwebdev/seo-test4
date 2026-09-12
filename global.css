@@ -781,6 +781,7 @@ transform:translate(-50%,-50%);
   line-height:1.5 !important;
   white-space:normal !important;
   text-align:left !important;
+  margin-top: 30px !important;
 }
 .service-card > a:hover{
   transform:none !important;
