@@ -1,0 +1,12 @@
+{
+  "name": "sitefix_v5",
+  "version": "1.0.0",
+  "description": "Content-rich service pages are preserved. A Locations hub and independent location pages for Delhi, South Delhi, Noida and Lucknow use the same visual system as the service pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
